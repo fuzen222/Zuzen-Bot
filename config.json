@@ -1,6 +1,6 @@
 {
 	"ip":"fznet.ml",
 	"port": "16387",
-	"name": "zuzenbot",
-	"auto-night-skip":"true"
+	"name": "fuzenbot",
+	"auto-night-skip":"false"
 }
